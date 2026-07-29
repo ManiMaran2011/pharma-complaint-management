@@ -19,7 +19,7 @@ export default function App() {
         <div className="app-brand">
           <div className="app-brand-mark">RX</div>
           <div>
-            <div className="app-brand-name">Meethu Pharma QMS</div>
+            <div className="app-brand-name">Pharma QMS</div>
             <div className="app-brand-sub">Customer Complaint Management</div>
           </div>
         </div>
